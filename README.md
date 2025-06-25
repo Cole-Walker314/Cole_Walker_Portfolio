@@ -22,3 +22,5 @@ This project demonstrates how to build a simple data pipeline that:
 - **Spotify API** - Data source
 - **Power BI** - Data visualization
 - **Python** - ETL scripting
+
+![](https://github.com/Cole-Walker314/Cole_Walker_Portfolio/blob/main/images/spotify-report-page.png)
