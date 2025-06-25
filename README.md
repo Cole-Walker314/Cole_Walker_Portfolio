@@ -11,9 +11,9 @@ This project demonstrates how to build a simple data pipeline that:
 1. **Extracts** Spotify track and album data for Fleet Foxes using the Spotify Web API.
 2. **Transforms** the raw JSON data into pandas DataFrames using Apache Airflow tasks.
 3. **Loads** the processed data into a local PostgreSQL database , provided by the Astro CLI.
-4. **Visualizes** the data in a Power BI report to display:
-   - Compares 
-   - 
+4. **Visualizes** the data in a Power BI report by:
+   - Comparing tracks and albums by popularity
+   - Utilizing KPI cards and DAX measures to display insightful metrics
 
 ## ⚙️ Tech Stack
 
