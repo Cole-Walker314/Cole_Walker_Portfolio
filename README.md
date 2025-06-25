@@ -1,7 +1,7 @@
 # [Cole_Walker_Portfolio](https://github.com/Cole-Walker314/Cole_Walker_Portfolio)
 This repository is used to store portfolio projects from Cole Walker
 
-**[Resume[(/resume/Cole%20Walker%20Resume%202025.docx.pdf)** 
+[**Resume**](/main/resume/Cole%20Walker%20Resume%202025.docx.pdf)
 
 # [Fleet Foxes Spotify Pipeline](https://github.com/Cole-Walker314/Cole_Walker_Portfolio/tree/main/fleet-foxes-spotify-pipeline)
 
