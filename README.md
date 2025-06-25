@@ -8,12 +8,12 @@ A data engineering portfolio project that automates the extraction and transform
 ## 🎯 Project Overview
 
 This project demonstrates how to build a simple data pipeline that:
-1. **Extracts** Spotify track and album data for Fleet Foxes using the Spotify Web API.
+1. **Extracts** Spotify track and album data for Fleet Foxes using the Spotify Web API on a daily basis.
 2. **Transforms** the raw JSON data into pandas DataFrames using Apache Airflow tasks.
 3. **Loads** the processed data into a local PostgreSQL database , provided by the Astro CLI.
 4. **Visualizes** the data in a Power BI report by:
-   - Comparing tracks and albums by popularity
-   - Utilizing KPI cards and DAX measures to display insightful metrics
+   - Comparing tracks and albums by popularity.
+   - Utilizing KPI cards and DAX measures to display insightful metrics.
 
 ## ⚙️ Tech Stack
 
@@ -23,4 +23,4 @@ This project demonstrates how to build a simple data pipeline that:
 - **Power BI** - Data visualization
 - **Python** - ETL scripting
 
-![](https://github.com/Cole-Walker314/Cole_Walker_Portfolio/blob/main/images/spotify-report-page.png)
+![](/images/spotify-report-page.png)
