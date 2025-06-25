@@ -1,7 +1,7 @@
 # [Cole_Walker_Portfolio](https://github.com/Cole-Walker314/Cole_Walker_Portfolio)
 This repository is used to store portfolio projects from Cole Walker
 
-# Fleet Foxes Spotify Pipeline
+# [Fleet Foxes Spotify Pipeline](https://github.com/Cole-Walker314/Cole_Walker_Portfolio/tree/main/fleet-foxes-spotify-pipeline)
 
 A data engineering portfolio project that automates the extraction and transformation of Fleet Foxes Spotify data using Apache Airflow, and visualizes the results in Power BI.
 
